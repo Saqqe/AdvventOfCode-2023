@@ -53,10 +53,6 @@ def calculate_sum_of_extracted_digits(extracted_digits):
     return total_sum
 
 
-
-
-
-
 if __name__ == "__main__":
     filename = "input.txt"  # Replace with the actual filename
     #extracted_digits = extract_first_and_last_digits_spelled(filename)
